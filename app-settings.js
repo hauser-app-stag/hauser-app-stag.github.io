@@ -1,6 +1,6 @@
 (function() {
   window.HauserAppSettings = {
-    apiBaseUrl: "http://hauser-dev.herokuapp.com/api/v1",
+    apiBaseUrl: "http://hauser-dev.herokuapp.com/api/business/v1",
     facebookAppId: "403594233134419",
     facebookAppName: "Hauser",
     firebaseUrl: "https://hauser.firebaseio.com",
